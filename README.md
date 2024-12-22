@@ -20,6 +20,10 @@ I am passionate about combining AI and systems programming to build efficient, i
 4. Learn more about real world work environment and programming teams.
 
 # Professional Life
-Open to internships in Machine Learning, Software Development, Qunatitive Development and Backend Development .
+Open to internships in:
+- Machine Learning
+- Software Development
+- Qunatitive Development
+- Backend Development
 
 Linkedin : https://www.linkedin.com/in/hussain-alelaiwi/
