@@ -5,7 +5,7 @@ I am passionate about combining AI and systems programming to build efficient, i
 
 # Current Projects
 
-1. Building a neural network from scratch in C++ to explore mathematical foundations and performance optimization.
+1. Holiday Planner Web application 
 
 # Technical overview
 
