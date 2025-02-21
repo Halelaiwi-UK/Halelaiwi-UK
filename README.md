@@ -20,7 +20,7 @@ I am passionate about combining AI and systems programming to build efficient, i
 4. Learn more about real world work environment and programming teams.
 
 # Professional Life
-- Software Engineer Intern @ Meta
-- Machine Learning Engineer Intern @ Ancova Capital Management
-
+- Software Engineer Intern @ Meta | Summer 2025
+- Machine Learning Engineer Intern @ Ancova Capital Management | Summer 2023
+  
 Linkedin : https://www.linkedin.com/in/hussain-alelaiwi/
