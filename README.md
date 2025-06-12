@@ -5,7 +5,7 @@ I am passionate about combining AI and systems programming to build efficient, i
 
 # Current Projects
 
-1. Holiday Planner Web application 
+1. Information theory for Exploration-Explotation tradeoff in bandit learning with delayed rewards. 
 
 # Technical overview
 
